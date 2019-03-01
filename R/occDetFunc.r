@@ -118,6 +118,19 @@
 #'  \item{\code{"species_sites"}}{ - }
 #'  \item{\code{"species_observations"}}{ - }
 #' }
+#' 
+#' Parameters modelled by default are listed below, further parameters can be monitored using the \code{"additional.parameters"} argument.
+#' \itemize{
+#'  \item{"a_REGION"}{ - }
+#'  \item{"alpha.p"}{ - }
+#'  \item{"dtype2.p"}{ - }
+#'  \item{"dtype3.p"}{ - }
+#'  \item{"psi.fs.r_"REGION}{ - }
+#'  \item{"tau.lp"}{ - }
+#'  \item{"tau2"}{ - }
+#'  \item{"mu.lp"}{ - } 
+#' }
+#' 
 #' @keywords trends, species, distribution, occupancy, bayesian, modeling
 #' @references Isaac, N.J.B., van Strien, A.J., August, T.A., de Zeeuw, M.P. and Roy, D.B. (2014).
 #'             Statistics for citizen science: extracting signals of change from noisy ecological data.
